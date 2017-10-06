@@ -1,11 +1,30 @@
 
+header {
+    margin: 0 auto;}
+.menu {
+background-color: #03d;
+height: 78px;
+width: max-content;
+margin: 0 auto;
+
+}
+li {
+float:left;
+list-style: none;
+margin:10px;
+padding:10px;}
+a {
+    color: #fff;
+    font-size: 30px;}
+
+
 footer{
     background-color: blue;
     align-content: center;
     height: 100px;
     padding: 5px;
     font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
-    
+    clear: both;
 
     
 }
