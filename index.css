@@ -1,0 +1,53 @@
+
+footer{
+    background-color: blue;
+    align-content: center;
+    height: 100px;
+    padding: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    
+
+    
+}
+
+p{
+    text-align: center;
+}
+#p4{
+    text-align: left;
+    position: fixed;
+    top: 10px;
+
+    
+}
+#p5{
+    text-align: right;
+    position: fixed;
+    top: 20px;
+    right:10px;
+}
+#p6{
+    text-align: right;
+    position: fixed;
+    top: 40px;
+    right:10px;
+    
+}
+#p7{
+    text-align: right;
+    position: fixed;
+    top: 60px;
+    right:10px;
+}
+input{
+    text-align: left;
+    position: fixed;
+    top: 60px;
+}
+button{
+    position: fixed;
+    top:60px;
+    left: 280px;
+}
+
+
