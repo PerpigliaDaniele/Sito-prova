@@ -9,7 +9,9 @@ nav {
 }
 .menu {
 background-color: #03d;
-height:100px;
+height: 78px;
+width: max-content;
+margin: 0 auto;
 
 }
 li {
