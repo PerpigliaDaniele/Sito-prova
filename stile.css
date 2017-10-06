@@ -1,0 +1,22 @@
+body {
+    width: 1300px;
+}
+header {
+    margin: 0 auto;}
+nav {
+    width:900px;
+    margin:0 auto;
+}
+.menu {
+background-color: #03d;
+height:100px;
+
+}
+li {
+float:left;
+list-style: none;
+margin:10px;
+padding:10px;}
+a {
+    color: #fff;
+    font-size: 30px;}
